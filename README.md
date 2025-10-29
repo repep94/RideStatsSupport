@@ -20,17 +20,13 @@ A privacy-focused iOS app for tracking your motorcycle rides with detailed stati
 - **Speed**: View maximum and average speed
 - **Route Visualization**: See your exact path on a map
 
-### 📸 Photo Memories
-- Attach photos to your rides
-- Capture scenic stops and memorable moments
-- Photos stored securely on your device
-
 ### 📈 Profile & History
 - View all-time ride statistics
 - Total distance traveled
 - Total rides completed
 - Browse complete ride history
 - Delete individual rides or all data
+- Attach photo of your motorcycle
 
 ### 🔒 Privacy First
 - **100% Local Storage**: All data stays on your device
@@ -41,7 +37,6 @@ A privacy-focused iOS app for tracking your motorcycle rides with detailed stati
 ### 🌍 Localization
 - English (en)
 - Polish (pl)
-- More languages coming soon!
 
 ## Requirements
 
@@ -63,8 +58,7 @@ Ride Stats requests the following permissions:
   - Minimum: "While Using" for basic functionality
 
 - **Photo Library** (Optional)
-  - Only requested when you choose to add photos to rides
-  - Used to attach memories to your rides
+  - Only requested when you choose to add photo to your profile
 
 ## Privacy & Security
 
