@@ -17,14 +17,14 @@ Welcome to Ride Stats support! This document will help you get the most out of t
 2. Tap the "Start Ride" button
 3. The app will track your route in the background
 4. Tap "Finish Ride" when you're done
-5. Review your ride statistics and optionally add a photo
+5. Review your ride statistics
 
 ### Permissions
 The app requires the following permissions:
 - **Location Services**: Essential for tracking your rides
   - Recommended: "Always" for accurate background tracking
   - Minimum: "While Using" if you prefer limited access
-- **Photo Library** (Optional): Only if you want to add photos to your rides
+- **Photo Library** (Optional): Only if you want to add photo to your profile
 
 ## Frequently Asked Questions
 
@@ -101,7 +101,6 @@ Found a bug? Help us fix it!
 - **Keep the app running in the background** during rides
 - **Grant "Always" location permission** for the most accurate tracking
 - **Check your battery** before long rides
-- **Add photos immediately** after finishing a ride while memories are fresh
 
 ## Planned Features
 
